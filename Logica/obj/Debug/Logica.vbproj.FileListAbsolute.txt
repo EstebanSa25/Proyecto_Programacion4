@@ -1,0 +1,345 @@
+D:\UH\Progra4\Proyecto#4\Logica\bin\Debug\Logica.dll
+D:\UH\Progra4\Proyecto#4\Logica\bin\Debug\Logica.pdb
+D:\UH\Progra4\Proyecto#4\Logica\bin\Debug\Logica.xml
+D:\UH\Progra4\Proyecto#4\Logica\bin\Debug\DataBase.dll
+D:\UH\Progra4\Proyecto#4\Logica\bin\Debug\Modelo.dll
+D:\UH\Progra4\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+D:\UH\Progra4\Proyecto#4\Logica\bin\Debug\DataBase.xml
+D:\UH\Progra4\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+D:\UH\Progra4\Proyecto#4\Logica\bin\Debug\Modelo.xml
+D:\UH\Progra4\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+D:\UH\Progra4\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+D:\UH\Progra4\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+D:\UH\Progra4\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+D:\UH\Progra4\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+D:\UH\Progra4\Proyecto#4\Logica\obj\Debug\Logica.dll
+D:\UH\Progra4\Proyecto#4\Logica\obj\Debug\Logica.xml
+D:\UH\Progra4\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\XPC\Downloads\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\XPC\Downloads\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\XPC\Downloads\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\XPC\Downloads\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\XPC\Downloads\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\XPC\Downloads\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\XPC\Downloads\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\XPC\Downloads\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\XPC\Downloads\Proyecto#4\Logica\bin\Debug\Modelo.xml
+C:\Users\XPC\Downloads\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\XPC\Downloads\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\XPC\Downloads\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\XPC\Downloads\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\XPC\Downloads\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\XPC\Downloads\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\XPC\Downloads\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\XPC\Downloads\Proyecto#4\Logica\obj\Debug\Logica.pdb
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\bin\Debug\Logica.dll
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\bin\Debug\Logica.pdb
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\bin\Debug\Logica.xml
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\bin\Debug\DataBase.dll
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\bin\Debug\Modelo.dll
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\bin\Debug\DataBase.xml
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\bin\Debug\Modelo.xml
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\obj\Debug\Logica.dll
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\obj\Debug\Logica.xml
+D:\UH\Progra4\ProyectoBellacoNum4\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\bin\Debug\Modelo.xml
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\bin\Debug\Modelo.xml
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto4Viernes\Proyecto#4\Logica\obj\Debug\Logica.pdb
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\bin\Debug\Logica.dll
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\bin\Debug\Logica.pdb
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\bin\Debug\Logica.xml
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\bin\Debug\DataBase.dll
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\bin\Debug\Modelo.dll
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\bin\Debug\DataBase.xml
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\bin\Debug\Modelo.xml
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.dll
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.xml
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.pdb
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\bin\Debug\Logica.dll
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\bin\Debug\Logica.pdb
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\bin\Debug\Logica.xml
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\bin\Debug\DataBase.dll
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\bin\Debug\Modelo.dll
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\bin\Debug\DataBase.xml
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\bin\Debug\Modelo.xml
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\obj\Debug\Logica.dll
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\obj\Debug\Logica.xml
+D:\UH\Progra4\Proyecto\Nueva carpeta\Proyecto#4\Logica\obj\Debug\Logica.pdb
+D:\UH\Progra4\Proyecto\Preguntados\Proyecto#4\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XPC\Downloads\Proyecto#4\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Modelo.xml
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\XPC\Downloads\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\bin\Debug\Modelo.xml
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto_4_IDK\Proyecto_4_miercoles\Proyecto#4\Logica\obj\Debug\Logica.pdb
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\bin\Debug\Logica.dll
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\bin\Debug\Logica.pdb
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\bin\Debug\Logica.xml
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\bin\Debug\DataBase.dll
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\bin\Debug\Modelo.dll
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\bin\Debug\Newtonsoft.Json.dll
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\bin\Debug\DataBase.xml
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\bin\Debug\Modelo.xml
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.dll
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.xml
+D:\UH\Progra4\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.pdb
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\bin\Debug\Logica.dll
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\bin\Debug\Logica.pdb
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\bin\Debug\Logica.xml
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\bin\Debug\DataBase.dll
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\bin\Debug\Modelo.dll
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\bin\Debug\DataBase.xml
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\bin\Debug\Modelo.xml
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.dll
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.xml
+D:\UH\Progra#4\Preguntados\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Modelo.xml
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Modelo.xml
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\gisse\OneDrive\Escritorio\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.pdb
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Logica.dll
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Logica.pdb
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Logica.xml
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\DataBase.dll
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Modelo.dll
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\DataBase.xml
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\bin\Debug\Modelo.xml
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.dll
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.xml
+D:\UH\Progra#4\Preguntados\Proyecto_4_avance_final_video\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\bin\Debug\Modelo.xml
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\bin\Debug\Modelo.xml
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto4MIERCOLES (1)\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\XPC\Desktop\Universidad\5to Cuatri\Progra 4\Proyectos\Proyecto#4\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\bin\Debug\Modelo.xml
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\esteb\Downloads\ProyectoActualizadoConPantallasinservibles\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\bin\Debug\Modelo.xml
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\esteb\Downloads\ProyectoCASITERMINADO\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\esteb\Downloads\Proyecto\Proyecto#4\Logica\obj\Debug\Logica.pdb
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\bin\Debug\Logica.dll
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\bin\Debug\Logica.pdb
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\bin\Debug\Logica.xml
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\bin\Debug\DataBase.dll
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\bin\Debug\Modelo.dll
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\bin\Debug\DataBase.pdb
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\bin\Debug\DataBase.xml
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\bin\Debug\Modelo.pdb
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\obj\Debug\Logica.dll
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\obj\Debug\Logica.xml
+C:\Users\esteb\Downloads\ProyectoACCESOANTICIPADO\Proyecto#4\Logica\obj\Debug\Logica.pdb
