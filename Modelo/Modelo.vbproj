@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>Modelo</RootNamespace>
     <AssemblyName>Modelo</AssemblyName>
-	<Prueba>512</Prueba>
+	<Prueba1>512</Prueba1>
     <FileAlignment>512</FileAlignment>
     <MyType>Windows</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
